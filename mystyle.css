@@ -3,3 +3,6 @@ h1 {
   font-size: 72pt;
 }
 
+body {
+  background-image: url("testackground.webp");
+}
